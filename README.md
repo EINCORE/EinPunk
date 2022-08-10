@@ -4,7 +4,7 @@
 
 ### Profession
 
-**Certified Blockchain Expert, Certified Ethereum Developer, Chainlink-Mix Developer, SmartContract-Mix, Brownie-Mix, **
+**Certified Blockchain Expert, Certified Ethereum Developer, Chainlink-Mix Developer, SmartContract-Mix, Brownie-Mix and also a Senior full stack developer at Predominant Planet**
 
 ### Trusted By 
 
