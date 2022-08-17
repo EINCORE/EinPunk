@@ -1,32 +1,15 @@
 ### Name
 
-*Lanre Yusuph*
+EinPunk
 
-### Profession
+### Social
 
-**Certified Blockchain Expert, Certified Ethereum Developer, Chainlink-Mix Developer, SmartContract-Mix, Brownie-Mix and also a Senior full stack developer at Predominant Planet**
+Twitter Url: https://twitter.com/ein_punk?s=20&t=3LGa8CndXdJuhUQ2zNB1Fg
 
-### Trusted By 
+## About Me
 
-Apple, Blockchain Counclil, Coursera, Google, Predominant Planet, Facebook, Meta
 
-### Skills 
+### A Senior Full Stack Dev
 
-- Javascript (Reactjs, Node.js, Express.js, Next.js, Expo
-- Python (Pytest, Pipx, Pywin, PyTourch, Web.py
-- API (Infura, Twillo, Google maps, LinkedIn, Spotify, Mandrill and others restful API development.
-- Amazon [ EC2, S3, Routes50], alexa 
-- Microsoft Azure, SalesForce, Skype, MongoDb, CRM, Agile, Atlas, Postman, Paypal Sandbox, Asterick
-- CircleCI, IPFS, CID
-- React Natives
-- C, .NET Framework, Ubuntu, Oracle, Docker, Ngrok, Nvidia, Bitski, XBox, Microsoft 365, Powershell, Vscode, RemixIde
 
-#### Blockchain
-- Smart contract development with solidity and rust with 4 years real world experience in the space.
-- Solid experience in Dapp development with web3.js, IPFS, Web3.py, solana web3.js,Truffle-Suite, ChainLink-Mix, Brownie-Mix, Chainlink-Mix, SmartContract- kit
-- Rich knowledge about uniswap, Aave, Venus and pancakeswap
-- Dapp frontend building react/typescript and Expo/Next.js 
-- 
-
-### Language
-Englsih
+<img width="1440" alt="Screen Shot 2022-08-17 at 3 57 29 PM" src="https://user-images.githubusercontent.com/100175732/185173033-bea2468e-6cb4-4d21-809d-2148e07c2e57.png">
